@@ -26,3 +26,5 @@
 
 - You are **not required** to use `all_seqs.pkl`,`lobal_embedings_max_length.npy` and `global_embedings_map.pkl`; they are provided for **your convenience**.  
 - The **test set will be released on Sunday at 11 AM**.  
+- For submission, send us your notebook and slides in a zip file at \nolinkurl{contact@pharmahacks.com}.
+\textit{Example submission : GROUPNAME\_CHALLENGE.zip} 
