@@ -22,6 +22,9 @@
 - **`Table-3_train.xlsx`**  
   A table of Kd values for the training set.  
 
+- **`starter_notebook.ipynb`**  
+  A Jupyter notebook provided as an **example code** to help you get started with the challenge. 
+
 ### Submission Instructions  
 - Submit your **notebook** and **slides** in a **zip file** via email to:  
   📩 **[contact@pharmahacks.com](mailto:contact@pharmahacks.com)**  
