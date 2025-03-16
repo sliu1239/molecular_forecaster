@@ -16,7 +16,7 @@
 - **`Table-1.xlsx`**  
   A table containing additional information about each kinase.  
 
-- **`Table-2_train.xlsx`**  
+- **`Table-2_train.csv`**  
   A table containing selectivity scores and SMILES strings for the training set.  
 
 - **`Table-3_train.xlsx`**  
@@ -28,6 +28,15 @@
 
 ### Submission Instructions  
 - Put your **notebook** and **slides** in a **GitHub repository** and post it on [Devpost](https://pharmahacks-2025.devpost.com/?ref_feature=challenge&ref_medium=discover&_gl=1*oayv4s*_gcl_au*MTE2NjM0NTYwLjE3MzcyMTQ1NjI.*_ga*MTc5OTkxOTUxNS4xNzM3MjE0NTYy*_ga_0YHJK3Y10M*MTc0MTk5MjU5Ni4yOS4xLjE3NDE5OTUxNjAuMC4wLjA)
+
+### Test set
+Test set was added to the repository. It consists of:
+- **`Table-2_test.csv`**  
+  A table containing selectivity scores and SMILES strings for the testing set.  
+
+- **`Table-3_test.xlsx`**  
+  A table of Kd values for the testing set.
+  **Note:** Some values were initally left blank as the dissociation constant was too high, and were replaced by the placeholder value 10001.
 
 
 ### Important Notes  
